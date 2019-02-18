@@ -1,1 +1,1 @@
-module github.com/dalongrong/gorelease-app
+module github.com/rongfengliang/gorelease-app
